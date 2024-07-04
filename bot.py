@@ -13,7 +13,7 @@ def print_welcome_message():
  █ NAZARA █
     """)
     print(Fore.GREEN + Style.BRIGHT + "YesCoin BOT")
-    print(Fore.GREEN + Style.BRIGHT + "Update Link: https://github.com")
+    print(Fore.GREEN + Style.BRIGHT + "Update Link: https://github.com/dcbott01/Yescoin")
 
 # Function to load tokens from file
 def load_tokens(file_path):
